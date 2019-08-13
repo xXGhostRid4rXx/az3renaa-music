@@ -1,6 +1,6 @@
 owner=304091500449497089
-prefix=!
-game=Break | !play
+prefix=/
+game=Az3renaa
 stayinchannel=true
 songinstatus=false
 token=NjEwNjU4MDg2NDk5MjU0Mjg0.XVIeIg.o3o7Q8upoMaGlPibXecJvZh9WlM
