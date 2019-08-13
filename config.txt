@@ -1,6 +1,6 @@
 owner=304091500449497089
 prefix=!
-game=music
+game=TaTa7
 stayinchannel=true
 songinstatus=false
 token=NjEwNjc3NTY2Njc5OTQxMTUw.XVIwSg.wQJPyl7F0PrVYzbxddvBu5Z6Q-A
